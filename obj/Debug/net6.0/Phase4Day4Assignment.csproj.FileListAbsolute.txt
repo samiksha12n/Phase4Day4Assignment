@@ -12,3 +12,4 @@ D:\GitAssignment\Phase 4\Day4\Phase4Day4Assignment\Phase4Day4Assignment\obj\Debu
 D:\GitAssignment\Phase 4\Day4\Phase4Day4Assignment\Phase4Day4Assignment\obj\Debug\net6.0\Phase4Day4Assignment.pdb
 D:\GitAssignment\Phase 4\Day4\Phase4Day4Assignment\Phase4Day4Assignment\obj\Debug\net6.0\Phase4Day4Assignment.genruntimeconfig.cache
 D:\GitAssignment\Phase 4\Day4\Phase4Day4Assignment\Phase4Day4Assignment\obj\Debug\net6.0\ref\Phase4Day4Assignment.dll
+D:\GitAssignment\Phase 4\Day4\Phase4Day4Assignment\Phase4Day4Assignment\obj\Debug\net6.0\Phase4Day4Assignment.sourcelink.json
